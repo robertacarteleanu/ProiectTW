@@ -1,0 +1,85 @@
+.div1{
+    text-align: center;
+    /*background-color: #6D6875;*/
+    background-image: url("picture1.jpg");
+    height: 300px;
+    
+}
+#h1Div1{
+    color:#B5838D;
+    padding-top: 120px;  
+    font-family: 'Bebas Neue', cursive;
+}
+#h2Div1{
+    color: #E5989B;
+    font-family: 'Anton', sans-serif; 
+}
+.div2{
+    
+    height: 350px;   
+}
+.h1Div{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #6D6875;
+    /*font-size: x-large;*/
+
+}
+#profilePic{
+    padding-top: 10px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border-radius: 50%;
+    max-width: 200px;
+}
+.div3{
+    text-align: center;
+    background-color: #FFCDB2;
+    height: 350px;
+    
+}
+.div4{
+
+    background-color: white;
+    height: 150px;
+    
+}
+.div5{
+    background-color: #FFB4A2;
+    height: 100px;
+    
+}
+.button{
+    background-color: #B5838D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /*margin: 4px 2px;*/
+  cursor: pointer;
+  font-family: 'Josefin Sans', sans-serif;
+  border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+    
+}
+
+hr.bullets{
+    border-top: 20px dotted;
+    margin-left: 650px;
+    margin-right: 650px;
+    color: #FFCDB2;
+}
+.pictures{
+    padding-top: 10px;
+    display: block;
+
+    border-radius: 50%;
+    max-width: 120px;
+}
